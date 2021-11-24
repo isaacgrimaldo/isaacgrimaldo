@@ -46,3 +46,4 @@ I am  junior web developer
 ### You can find in me in the web 🌍
 <br/>
 -[linkedin]: https://www.linkedin.com/in/isaac-grimaldo-2a8782204
+-[npm]: https://www.npmjs.com/~isaacgvev
