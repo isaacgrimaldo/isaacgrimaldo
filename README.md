@@ -3,10 +3,8 @@
 ---
 
 I am  junior web developer 
- 
- 🔭 I’m planning for a Project **I'm developig a app to saved sales of a shop** [repository](https://github.com/isaacgrimaldo/App-Almacen 'Repositoty') .
- 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
  
